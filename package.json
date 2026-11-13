@@ -1,0 +1,8 @@
+{
+  "name": "kestrel-batcher",
+  "version": "1.8.2",
+  "description": "Batching helper for distributed trace spans",
+  "main": "src/batcher.js",
+  "license": "Apache-2.0",
+  "engines": { "node": ">=18" }
+}
