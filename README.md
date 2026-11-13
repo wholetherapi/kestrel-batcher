@@ -20,3 +20,4 @@ collector.addSpan({ traceId: 'abc', name: 'db.query', durationMs: 12 });
 ## License
 
 Apache-2.0
+
